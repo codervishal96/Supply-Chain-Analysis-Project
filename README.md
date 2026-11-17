@@ -4,7 +4,7 @@ An exploratory data analysis project on the supply chain of a Fashion and Beauty
 
 ## What is Supply Chain Analysis?
 
-Supply chain analysis evaluates every stage of a supply chain — from acquiring raw materials from suppliers to delivering the final product to customers — to identify where the process can be improved, shortened, or made more cost-effective.
+Supply chain analysis evaluates every stage of a supply chain from acquiring raw materials from suppliers to delivering the final product to customers to identify where the process can be improved, shortened, or made more cost-effective.
 
 ## Dataset
 
